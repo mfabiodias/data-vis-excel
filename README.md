@@ -1,9 +1,9 @@
-##Summary
+## Summary
 A half-day course for up to 20 employees covering the key concepts of how to create truthful and visually-compelling visualizations of important data. The course will cover how to create impactful charts, graphs, and other information visualizations in order to effectively communicate critical analysis to decision-makers, policymakers, and other key stakeholders. 
 
 Slides are available <a href="http://bit.ly/data-vis-excel" target="_blank">here</a>.
 
-##Goals
+## Goals
 + Introduce the fundamentals of information visualization design
 + Introduce key terminology as it relates to information visualization design
 + Discuss the application of design principles to the visualization of government open data
@@ -11,13 +11,13 @@ Slides are available <a href="http://bit.ly/data-vis-excel" target="_blank">here
 + Practice creating impactful charts, graphs, and other visualizations to communicate information
 
 
-##Outcomes
+## Outcomes
 + Participants will understand the basics of information visualization design and how to select the best chart for the data they're working with
 + Participants will be familiar with key terminology and concepts of information visualization design as they relate to government open data 
 + Participants will understand how to create meaningful and visually-compelling charts in Excel using government open data
 + Participants will be practiced in applying the principles of good information visualization design to their work
 
-##Outline
+## Outline
 + Introductions
 + Discussion
 	+ Why do we visualize data?
