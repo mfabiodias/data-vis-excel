@@ -300,3 +300,16 @@ form{
   text-align: center;
 
 }
+
+.caption{
+  display: block;
+  text-align: center;
+  color: gray;
+  font-size:0.75em;
+}
+
+.remark-slide-number {
+  font-size:0.75em;
+  bottom:5px;
+  right:10px;
+}
