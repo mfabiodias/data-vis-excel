@@ -3,6 +3,8 @@ A half-day course for up to 20 employees covering the key concepts of how to cre
 
 Slides are available <a href="http://bit.ly/data-vis-excel" target="_blank">here</a>.
 
+[http://bit.ly/data-vis-excel](http://bit.ly/data-vis-excel){:target="_blank"}
+
 ## Goals
 + Introduce the fundamentals of information visualization design
 + Introduce key terminology as it relates to information visualization design
